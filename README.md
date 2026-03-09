@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nallamothu VEnkata Avinash</h1>
+<h1 align="center">Hi 👋, I'm Nallamothu Venkata Avinash</h1>
 <h3 align="center">Aspiring Full Stack Developer | Java | Spring Boot | React | AI Enthusiast</h3>
 
 <p align="center">
@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="www.linkedin.com/in/venkata-avinash-nallamothu-b1a23a269">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/YOUR_USERNAME" target="">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -120,23 +120,26 @@
 
 ## 💼 Experience
 
-**Junior Development Intern — Your Company Name**  
-*Jul 2025 – Present*
+**Data Analyst Intern - Amnet Digital**  
+*Nov 2025 – Jan 2026*
+Collected, cleaned, and analyzed data to support business decision-making.
+Worked on data preprocessing, validation, and transformation to improve data quality.
+Created reports and dashboards to present insights in a clear and meaningful way.
+Used Excel, SQL, and data analysis tools to identify trends, patterns, and performance metrics.
+Assisted in generating actionable insights from raw data for business and operational use cases.
+Collaborated with team members to understand requirements and deliver data-driven solutions.
+Gained hands-on experience in data analysis, reporting, and insight generation in a real-world environment.
 
-- Developed REST APIs and backend modules
-- Worked on AI-based features like mock interviews and resume tools
-- Built full-stack modules using React and Spring Boot
-- Improved query performance and application flow
 
 ---
 
 ## 🎓 Education
 
 **B.Tech in Artificial Intelligence & Data Science**  
-Your College Name | CGPA: X.X/10
+Vasireddy Venkatadri Institute of Technology | CGPA: 8.0/10
 
 **Intermediate (MPC)**  
-Your College Name | Percentage: XX%
+ rajadhani Juniour College | Percentage: 96.1%
 
 ---
 
@@ -161,9 +164,11 @@ Your College Name | Percentage: XX%
 
 ## 📫 Contact Me
 
-- LinkedIn: [YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- Email: **YOUR_EMAIL**
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- LinkedIn: [Venkata Avinash Nallamothu](www.linkedin.com/in/
+venkata-avinash-nallamothu-b1a23a269
+)
+- Email:venkataavinashnallmothu@gmail.com
+- GitHub: [Avinash5435](https://github.com/YOUR_USERNAME)
 
 ---
 
